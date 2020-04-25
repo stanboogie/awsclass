@@ -1,0 +1,9 @@
+<!doctype html>
+    <html>
+      <head>
+        <title>This is a Static Html Site</title>
+      </head>
+      <body>
+        <p> Our first and only paragraph for now. Testing this out <strong>CSS</strong> </p>
+      </body>
+    </html>
